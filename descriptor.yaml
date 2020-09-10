@@ -1,0 +1,13 @@
+code: thelucas-bundle
+description: This is the theLucas bundle
+
+components:
+  plugins:
+    - plugins/thelucas-plugin.yaml
+
+  widgets:
+    - ui/widgets/foo/tableWidget/foo-table-widget-descriptor.yaml
+    - ui/widgets/foo/detailsWidget/foo-details-widget-descriptor.yaml
+    - ui/widgets/foo/formWidget/foo-form-widget-descriptor.yaml
+# entando-needle-descriptor-add-widgets - Entando blueprint will add widget bundle files here
+

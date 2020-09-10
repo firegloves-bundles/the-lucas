@@ -1,0 +1,6 @@
+code: foo-table-widget
+titles:
+  en: Foo Table Widget
+  it: Foo Table Widget
+group: free
+customUiPath: foo-table-widget.ftl

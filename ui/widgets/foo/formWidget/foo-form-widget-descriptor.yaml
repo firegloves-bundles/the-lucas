@@ -1,0 +1,6 @@
+code: foo-form-widget
+titles:
+  en: Foo Form Widget
+  it: Foo Form Widget
+group: free
+customUiPath: foo-form-widget.ftl
