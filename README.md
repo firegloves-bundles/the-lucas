@@ -1,3 +1,4 @@
+```
 apiVersion: entando.org/v1
 kind: EntandoDeBundle
 metadata:
@@ -18,4 +19,4 @@ spec:
       shasum: e986aa2c426987b979ab68a4de71e5ac587d735f
       integrity: e986aa2c426987b979ab68a4de71e5ac587d735f
       tarball: 'https://github.com/kerruba-bundles/the-lucas.git'
-
+```
