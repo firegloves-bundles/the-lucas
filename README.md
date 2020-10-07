@@ -18,5 +18,5 @@ spec:
     - version: v0.0.1
       shasum: e986aa2c426987b979ab68a4de71e5ac587d735f
       integrity: e986aa2c426987b979ab68a4de71e5ac587d735f
-      tarball: 'https://github.com/kerruba-bundles/the-lucas.git'
+      tarball: 'https://github.com/firegloves-bundles/the-lucas.git'
 ```
