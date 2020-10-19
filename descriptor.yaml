@@ -6,6 +6,10 @@ components:
   plugins:
     - plugins/thelucas-plugin.yaml
 
+  contents:
+    - contents/bnr102-descriptor.yaml
+    - contents/bnr16-descriptor.yaml
+
 #  widgets:
 #    - ui/widgets/foo/tableWidget/foo-table-widget-descriptor.yaml
 #    - ui/widgets/foo/detailsWidget/foo-details-widget-descriptor.yaml
