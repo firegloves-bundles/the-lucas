@@ -11,7 +11,7 @@ spec:
     name: thelucas-bundle
     description: This is the theLucas bundle
     dist-tags:
-      latest: v0.0.7
+      latest: v0.0.6
     versions:
       - v0.0.1
       - v0.0.2
@@ -19,7 +19,6 @@ spec:
       - v0.0.4
       - v0.0.5
       - v0.0.6
-      - v0.0.7
   tags:
     - version: v0.0.1
       shasum: e986aa2c426987b979ab68a4de71e5ac587d735f
@@ -49,10 +48,5 @@ spec:
       shasum: e986aa2c426987b979ab68a4de71e5ac587d735f
       integrity: e986aa2c426987b979ab68a4de71e5ac587d735f
       tarball: 'https://github.com/firegloves-bundles/the-lucas.git'
-      description: 'kerruba plugin image (shorter than max length)'
-    - version: v0.0.7
-      shasum: e986aa2c426987b979ab68a4de71e5ac587d735f
-      integrity: e986aa2c426987b979ab68a4de71e5ac587d735f
-      tarball: 'https://github.com/firegloves-bundles/the-lucas.git'
-      description: 'image name too long'
+      description: 'kerruba plugin image (shorter than max length) NO CONTENTS'
 ```
