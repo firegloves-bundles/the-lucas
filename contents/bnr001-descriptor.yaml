@@ -1,0 +1,30 @@
+##########
+# A CONTENT TYPE WITH CODE BNR NEEDS TO BE PRESENT TO WORK
+##########
+
+id: BNR102
+typeCode: BNR
+description: Interest 3 card title - 2nd banner
+mainGroup: free
+status: PUBLIC
+attributes:
+  - code: title
+    value: null
+    values:
+      en: Learn about checking and savings accounts
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: subtitle
+    value: null
+    values:
+      en: Learn about checking and savings accounts
+    elements: []
+    compositeelements: []
+    listelements: {}
+  - code: descr
+    value: null
+    values: {}
+    elements: []
+    compositeelements: []
+    listelements: {}
