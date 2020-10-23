@@ -3,11 +3,11 @@ code: thelucas-bundle
 description: This is the theLucas bundle
 
 components:
-#  plugins:
-#    - plugins/thelucas-plugin.yaml
+  plugins:
+    - plugins/thelucas-plugin.yaml
 
-  contents:
-    - contents/bnr001-descriptor.yaml
+#  contents:
+#    - contents/bnr001-descriptor.yaml
 #    - contents/bnr102-descriptor.yaml
 #    - contents/bnr16-descriptor.yaml
 
