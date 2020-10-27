@@ -1,6 +1,6 @@
 image: kerruba/the-lucas:0.0.1-SNAPSHOT
 dbms: postgresql
-deploymentBaseName: "awesomePlugin"
+deploymentBaseName: "customBaseName"
 healthCheckPath: "/management/health"
 roles:
   - "theLucas-admin"
