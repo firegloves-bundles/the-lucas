@@ -1,11 +1,11 @@
 image: kerruba/the-lucas:0.0.1-SNAPSHOT
 dbms: postgresql
-deploymentBaseName: "customBaseName"
+deploymentBaseName: "awesomePlugin"
 healthCheckPath: "/management/health"
 roles:
   - "theLucas-admin"
   - "foo-admin"
-ingressPath: "/myhostname.io/entando-plugin"
+ingressPath: "/awesomeplugin.io/entando-plugin"
 permissions:
   - clientId: realm-management
     role: manage-users
