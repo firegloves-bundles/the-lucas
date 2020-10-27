@@ -11,7 +11,7 @@ spec:
     name: thelucas-bundle
     description: This is the theLucas bundle
     dist-tags:
-      latest: v0.0.7
+      latest: v0.0.8
     versions:
       - v0.0.1
       - v0.0.2
@@ -20,6 +20,7 @@ spec:
       - v0.0.5
       - v0.0.6
       - v0.0.7
+      - v0.0.8
   tags:
     - version: v0.0.1
       shasum: e986aa2c426987b979ab68a4de71e5ac587d735f
@@ -54,5 +55,10 @@ spec:
       shasum: e986aa2c426987b979ab68a4de71e5ac587d735f
       integrity: e986aa2c426987b979ab68a4de71e5ac587d735f
       tarball: 'https://github.com/firegloves-bundles/the-lucas.git'
-      description: 'only plugin and widgets, with deploymentBaseName, ingressPath and permissions'
+      description: 'only plugin and widgets, with deploymentBaseName, ingressPath and permissions (NOT existing perms)'
+    - version: v0.0.8
+      shasum: e986aa2c426987b979ab68a4de71e5ac587d735f
+      integrity: e986aa2c426987b979ab68a4de71e5ac587d735f
+      tarball: 'https://github.com/firegloves-bundles/the-lucas.git'
+      description: 'only plugin and widgets, with deploymentBaseName, ingressPath and permissions (existing perms)'
 ```

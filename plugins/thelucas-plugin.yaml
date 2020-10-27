@@ -7,9 +7,9 @@ roles:
   - "foo-admin"
 ingressPath: "/myhostname.io/entando-plugin"
 permissions:
-  - clientId: my-realm-management
-    role: my-manage-users
-  - clientId: my-realm-management
-    role: my-view-users
+  - clientId: realm-management
+    role: manage-users
+  - clientId: realm-management
+    role: view-users
 
 # entando-needle-descriptor-add-roles - Entando blueprint will add roles here
