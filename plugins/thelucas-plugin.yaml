@@ -9,7 +9,5 @@ ingressPath: "/awesomeplugin.io/entando-plugin"
 permissions:
   - clientId: realm-management
     role: manage-users
-  - clientId: realm-management
-    role: view-users
 
 # entando-needle-descriptor-add-roles - Entando blueprint will add roles here
