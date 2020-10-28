@@ -10,7 +10,7 @@ spec:
     name: thelucas-bundle
     description: This is the theLucas bundle
     dist-tags:
-      latest: v0.0.9
+      latest: v0.0.10
     versions:
       - v0.0.1
       - v0.0.2
@@ -21,6 +21,7 @@ spec:
       - v0.0.7
       - v0.0.8
       - v0.0.9
+      - v0.0.10
   tags:
     - version: v0.0.1
       shasum: e986aa2c426987b979ab68a4de71e5ac587d735f
@@ -66,3 +67,8 @@ spec:
       integrity: e986aa2c426987b979ab68a4de71e5ac587d735f
       tarball: 'https://github.com/firegloves-bundles/the-lucas.git'
       description: 'one more version'
+    - version: v0.0.10
+      shasum: e986aa2c426987b979ab68a4de71e5ac587d735f
+      integrity: e986aa2c426987b979ab68a4de71e5ac587d735f
+      tarball: 'https://github.com/firegloves-bundles/the-lucas.git'
+      description: 'similar to the 0.0.9 but with different deploymentBaseName and same ingressPath'
