@@ -1,13 +1,8 @@
 image: lcorsettientando/the-lucas:0.0.1-SNAPSHOT
 dbms: postgresql
-deploymentBaseName: "customBaseName2"
 healthCheckPath: "/management/health"
+deploymentBaseName: "thelucasplugin"
 roles:
   - "theLucas-admin"
   - "foo-admin"
-ingressPath: "/awesomeplugin.io/entando-plugin"
-permissions:
-  - clientId: realm-management
-    role: manage-users
-
 # entando-needle-descriptor-add-roles - Entando blueprint will add roles here
