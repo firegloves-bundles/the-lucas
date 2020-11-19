@@ -1,20 +1,20 @@
-id: BNR102
+id: BNR80
 typeCode: BNR
-description: Interest 3 card title - 2nd banner
+description: Credit & benefits & features
 mainGroup: free
-status: PUBLIC
+status: DRAFT
 attributes:
   - code: title
     value: null
     values:
-      en: Learn about checking and savings accounts
+      en: Benefits & Features
     elements: []
     compositeelements: []
     listelements: {}
   - code: subtitle
     value: null
     values:
-      en: Learn about checking and savings accounts
+      en: 'Benefits & Features '
     elements: []
     compositeelements: []
     listelements: {}
@@ -48,14 +48,14 @@ attributes:
           - code: headtitle
             value: null
             values:
-              en: 'Checkings vs Savings, Money Markets, and CDs:'
+              en: Earn 3x Points on your Favorite things
             elements: []
             compositeelements: []
             listelements: {}
           - code: asubtitle
             value: null
             values:
-              en: 'What are they, and which is right for me?'
+              en: 'Dining, Travel, Groceries, Entainment, Earn points on every purchase'
             elements: []
             compositeelements: []
             listelements: {}
@@ -68,7 +68,7 @@ attributes:
           - code: atitle
             value: null
             values:
-              en: 'Checkings vs Savings, Money Markets, and CDs:'
+              en: Earn 3x Points on your Favorite things
             elements: []
             compositeelements: []
             listelements: {}
@@ -82,8 +82,8 @@ attributes:
             value: null
             values:
               en:
-                correlationCode: '103'
-                name: Checking v Savings.png
+                correlationCode: '81'
+                name: Frame3x.png
             elements: []
             compositeelements: []
             listelements: {}
@@ -96,14 +96,14 @@ attributes:
           - code: headtitle
             value: null
             values:
-              en: 'High Yield Savings Accounts:'
+              en: Absolutely No Fees
             elements: []
             compositeelements: []
             listelements: {}
           - code: asubtitle
             value: null
             values:
-              en: 'How much can I earn, and what to know about taxes'
+              en: 'No annual fees, late payment fees, foreign transaction fees, absolutely no fees.'
             elements: []
             compositeelements: []
             listelements: {}
@@ -116,7 +116,7 @@ attributes:
           - code: atitle
             value: null
             values:
-              en: 'High Yield Savings Accounts:'
+              en: Absolutely No Fees
             elements: []
             compositeelements: []
             listelements: {}
@@ -130,8 +130,8 @@ attributes:
             value: null
             values:
               en:
-                correlationCode: '104'
-                name: Checking v Savings.png
+                correlationCode: '82'
+                name: Frame3x.png
             elements: []
             compositeelements: []
             listelements: {}
@@ -144,14 +144,14 @@ attributes:
           - code: headtitle
             value: null
             values:
-              en: 'Ways to Invest:'
+              en: 24/7 Fraud Protection
             elements: []
             compositeelements: []
             listelements: {}
           - code: asubtitle
             value: null
             values:
-              en: 'Ways to Invest: What are the ways people invest their money, and reasons to keep your money liquid.'
+              en: 'Feel secure all day, everyday. Know that all your information is safe and secure.'
             elements: []
             compositeelements: []
             listelements: {}
@@ -164,7 +164,7 @@ attributes:
           - code: atitle
             value: null
             values:
-              en: 'Ways to Invest:'
+              en: 24/7 Fraud Protection
             elements: []
             compositeelements: []
             listelements: {}
@@ -178,8 +178,8 @@ attributes:
             value: null
             values:
               en:
-                correlationCode: '105'
-                name: Checking v Savings.png
+                correlationCode: '83'
+                name: Frame3x.png
             elements: []
             compositeelements: []
             listelements: {}

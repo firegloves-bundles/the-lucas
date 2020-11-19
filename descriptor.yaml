@@ -6,10 +6,79 @@ components:
   plugins:
     - plugins/thelucas-plugin.yaml
 
-#  contents:
-#    - contents/bnr001-descriptor.yaml
-#    - contents/bnr102-descriptor.yaml
-#    - contents/bnr16-descriptor.yaml
+  contentTypes:
+    - contentTypes/mpc-descriptor.yaml
+    - contentTypes/prd-descriptor.yaml
+  contentModels:
+    - contentModels/main-banner-descriptor.yaml
+    - contentModels/banner-light-green-descriptor.yaml
+    - contentModels/banner-with-inner-card-descriptor.yaml
+    - contentModels/banner-with-accordion-descriptor.yaml
+    - contentModels/banner-dark-green-background-descriptor.yaml
+    - contentModels/banner-with-white-background-descriptor.yaml
+    - contentModels/credit-light-green-descriptor.yaml
+    - contentModels/credit-benefits-&-features-descriptor.yaml
+    - contentModels/interest-banner-landscape-descriptor.yaml
+    - contentModels/interest-simple-composite-banner-descriptor.yaml
+    - contentModels/interest-banner-white-descriptor.yaml
+    - contentModels/interest-banner-white-img-first-descriptor.yaml
+    - contentModels/interest-3-card-title-2nd-banner-descriptor.yaml
+    - contentModels/news-list-descriptor.yaml
+    - contentModels/news-details-descriptor.yaml
+    - contentModels/news-card-descriptor.yaml
+    - contentModels/multi-purpose-header-descriptor.yaml
+    - contentModels/multi-purpose-centered-descriptor.yaml
+    - contentModels/multi-purpose-text-right-image-left-descriptor.yaml
+    - contentModels/multi-purpose-card-for-3-columns-list-descriptor.yaml
+    - contentModels/multi-purpose-text-left-image-right-descriptor.yaml
+    - contentModels/multi-purpose-card-product-detail-descriptor.yaml
+    - contentModels/multi-purpose-card-3-columns-list-with-categories-descriptor.yaml
+    - contentModels/products-3-columns-list-with-categories-descriptor.yaml
+    - contentModels/product-detail-descriptor.yaml
+    - contentModels/products-text-left-image-right-descriptor.yaml
+  contents:
+    - contents/bnr16-descriptor.yaml
+    - contents/bnr19-descriptor.yaml
+    - contents/bnr28-descriptor.yaml
+    - contents/bnr31-descriptor.yaml
+    - contents/bnr34-descriptor.yaml
+    - contents/bnr37-descriptor.yaml
+    - contents/bnr80-descriptor.yaml
+    - contents/bnr85-descriptor.yaml
+    - contents/bnr102-descriptor.yaml
+    - contents/bnr140-descriptor.yaml
+    - contents/bnr144-descriptor.yaml
+    - contents/bnr147-descriptor.yaml
+    - contents/bnr149-descriptor.yaml
+    - contents/bnr164-descriptor.yaml
+    - contents/mpc584-descriptor.yaml
+    - contents/mpc587-descriptor.yaml
+    - contents/mpc590-descriptor.yaml
+    - contents/mpc593-descriptor.yaml
+    - contents/mpc596-descriptor.yaml
+    - contents/mpc606-descriptor.yaml
+    - contents/mpc608-descriptor.yaml
+    - contents/mpc611-descriptor.yaml
+    - contents/mpc614-descriptor.yaml
+    - contents/mpc616-descriptor.yaml
+    - contents/mpc619-descriptor.yaml
+    - contents/mpc622-descriptor.yaml
+    - contents/mpc625-descriptor.yaml
+    - contents/nws628-descriptor.yaml
+    - contents/nws631-descriptor.yaml
+    - contents/nws634-descriptor.yaml
+    - contents/nws638-descriptor.yaml
+    - contents/nws641-descriptor.yaml
+    - contents/nws644-descriptor.yaml
+    - contents/nws647-descriptor.yaml
+    - contents/nws650-descriptor.yaml
+    - contents/prd653-descriptor.yaml
+    - contents/prd656-descriptor.yaml
+    - contents/prd659-descriptor.yaml
+    - contents/prd662-descriptor.yaml
+    - contents/prd666-descriptor.yaml
+    - contents/prd670-descriptor.yaml
+    - contents/prd673-descriptor.yaml
 
   widgets:
     - ui/widgets/foo/tableWidget/foo-table-widget-descriptor.yaml
