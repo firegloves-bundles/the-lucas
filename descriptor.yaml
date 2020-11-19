@@ -4,7 +4,7 @@ description: This is the theLucas bundle
 
 components:
   plugins:
-    - plugins/thelucas-plugin.yaml
+#    - plugins/thelucas-plugin.yaml
 
   contentTypes:
     - contentTypes/mpc-descriptor.yaml
