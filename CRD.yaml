@@ -77,4 +77,4 @@ spec:
       shasum: e986aa2c426987b979ab68a4de71e5ac587d735f
       integrity: e986aa2c426987b979ab68a4de71e5ac587d735f
       tarball: 'https://github.com/firegloves-bundles/the-lucas.git'
-      description: 'content and content types and content templates'
+      description: 'content and content types and content templates but plugin'
