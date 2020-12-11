@@ -11,7 +11,7 @@ spec:
     name: thelucas-bundle
     description: This is the theLucas bundle
     dist-tags:
-      latest: v0.0.10
+      latest: v0.0.11
     versions:
       - v0.0.1
       - v0.0.2
@@ -23,6 +23,8 @@ spec:
       - v0.0.8
       - v0.0.9
       - v0.0.10
+      - v0.0.11
+      - v0.0.12-PLUGIN-IMG-NOT-EXISTING
   tags:
     - version: v0.0.1
       shasum: e986aa2c426987b979ab68a4de71e5ac587d735f
@@ -73,4 +75,14 @@ spec:
       integrity: e986aa2c426987b979ab68a4de71e5ac587d735f
       tarball: 'https://github.com/firegloves-bundles/the-lucas.git'
       description: 'similar to the 0.0.9 but with different deploymentBaseName and same ingressPath'
+    - version: v0.0.11
+      shasum: e986aa2c426987b979ab68a4de71e5ac587d735f
+      integrity: e986aa2c426987b979ab68a4de71e5ac587d735f
+      tarball: 'https://github.com/firegloves-bundles/the-lucas.git'
+      description: 'content and content types and content templates but plugin'
+    - version: v0.0.12-PLUGIN-IMG-NOT-EXISTING
+      shasum: e986aa2c426987b979ab68a4de71e5ac587d735f
+      integrity: e986aa2c426987b979ab68a4de71e5ac587d735f
+      tarball: 'https://github.com/firegloves-bundles/the-lucas.git'
+      description: 'only plugin but docker image not existing. latest version is v0.0.11'
 ```
