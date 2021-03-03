@@ -1,6 +1,7 @@
 version: 2
 code: thelucas-bundle
 description: This is the theLucas bundle
+bundleType: standard-bundle
 
 components:
   plugins:
